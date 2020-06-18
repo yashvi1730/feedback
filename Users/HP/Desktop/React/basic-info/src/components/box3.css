@@ -1,0 +1,35 @@
+#contborder{
+    border-style:solid;
+    border-radius:5px;
+    border-spacing:120px;
+    margin-top: 50px;
+}
+
+p{
+    font-family: Lora;
+}
+
+.myButton {
+	
+	background-color:#BCD8DF;
+	border-radius:5px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	padding:12px 29px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.myButton:hover {
+
+	background-color:#DDADA6;
+	color: white;
+	text-decoration: none;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
